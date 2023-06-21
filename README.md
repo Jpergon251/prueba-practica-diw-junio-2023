@@ -9,9 +9,9 @@ Prueba práctica Junio 2023  - Maquetación y desarrollo de la aplicación Web (
 
 Nos ha llegado una web maquetada que no podemos acceder a ningún archivo HTML, ni CSS. Solamente nos permite añadir nuevos estilos en en un archivo llamado nuevo.css que está en la carpeta assets. Nos piden que realicemos las siguientes modificaciones. (No está permitido el uso de !important)
 
-1. General 
-	Cambiar el color del fondo del pie de página de la web.
-
+1. General
+- [ ] Cambiar el color del fondo del pie de página de la web.
+ 
 2. Index.html
 - [ ] Modifica el color del enlace exposiciones.
 - [ ] Añade negrita a la siguiente frase “Del 2 de enero al 25 de junio de 2019. Actividad gratuita con inscripción previa”

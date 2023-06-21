@@ -2,7 +2,7 @@
 # Hola!👋,
 ## Módulo Diseño de Interfaces Web 🎨 
 
-Prueba práctica Junio 2023  - Maquetación y desarrollo de la aplicación Web (API) - Selecctores y Especificidad
+Prueba práctica Junio 2023  - Maquetación y desarrollo de la aplicación Web (API)
 
 Nos ha llegado una web maquetada que no podemos acceder a ningún archivo HTML, ni CSS. Solamente nos permite añadir nuevos estilos en en un archivo llamado nuevo.css que está en la carpeta assets. Nos piden que realicemos las siguientes modificaciones. (No está permitido el uso de !important)
 

@@ -1,8 +1,5 @@
 ﻿
 # Hola!👋,
-
-Este proyecto trata sobre... escribid sobre vuestro proyecto.
-
 ## Módulo Diseño de Interfaces Web 🎨 
 
 Prueba práctica Junio 2023  - Maquetación y desarrollo de la aplicación Web (API) - Selecctores y Especificidad

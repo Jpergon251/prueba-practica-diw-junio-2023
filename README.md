@@ -6,12 +6,13 @@ Prueba práctica Junio 2023  - Maquetación y desarrollo de la aplicación Web (
 
 ### Criterios de evaluación: 
 #### RA2
-a) Se han reconocido las posibilidades de modificar las etiquetas HTML.
-c) Se han definido y asociado estilos globales en hojas externas.
-e) Se han redefinido estilos.
-f) Se han identificado las distintas propiedades de cada elemento.
+a) Se han reconocido las posibilidades de modificar las etiquetas HTML.  
+c) Se han definido y asociado estilos globales en hojas externas.  
+e) Se han redefinido estilos.  
+f) Se han identificado las distintas propiedades de cada elemento.  
 g) Se han creado clases de estilos.
 
+### Desarrollo: 
 Nos ha llegado una web maquetada que no podemos acceder a ningún archivo HTML, ni CSS. Solamente nos permite añadir nuevos estilos en en un archivo llamado nuevo.css que está en la carpeta assets. Nos piden que realicemos las siguientes modificaciones. (No está permitido el uso de !important)
 
 1. General

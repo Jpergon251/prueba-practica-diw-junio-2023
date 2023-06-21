@@ -1,0 +1,37 @@
+footer.container-fluid{
+    background-color: rgb(133, 84, 126);
+}
+
+.navbar-nav a.nav-link[href*='exposiciones']{
+    color: rgb(255, 0, 136);
+}
+
+.tres-columnas:nth-of-type(2) p{
+    font-weight: bold;
+}
+
+button.btn{
+    background-color: rgb(48, 145, 148);
+}
+
+@media (max-width: 500px) {
+    .exposiciones .fila{
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+.fila p:first-child{
+    background-color: rgb(255, 246, 196);
+}
+
+cite{
+    color: rgb(204, 7, 7);
+}
+
+input[type='text']{
+    border: 1px solid rgb(212, 0, 255);
+}
+input.form-control::placeholder{
+    color: rgb(83, 142, 219);
+}

@@ -18,7 +18,9 @@ Nos ha llegado una web maquetada que no podemos acceder a ningún archivo HTML, 
 - [ ] Modifica el color de fondo del botón en todos sus estados posibles.
 
 3. Exposiciones
-- [ ] En menos de 500px, tenga este diseño los artículos. 
+- [ ] En menos de 500px, tenga este diseño los artículos.
+![alt text](https://github.com/envasadoralvacio/prueba-practica-diw-junio-2023/blob/master/imagen-prueba.jpg?raw=true)
+
 ￼
 4. Expo-detalle.html
 - [ ] Haz que el primer párrafo de los artículos tenga un color de fondo (cuidado con la legibilidad)

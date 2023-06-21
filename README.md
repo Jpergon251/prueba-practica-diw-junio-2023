@@ -19,9 +19,8 @@ Nos ha llegado una web maquetada que no podemos acceder a ningún archivo HTML, 
 
 3. Exposiciones
 - [ ] En menos de 500px, tenga este diseño los artículos.
-![alt text](https://github.com/envasadoralvacio/prueba-practica-diw-junio-2023/blob/master/imagen-prueba.jpg  | width=300)
+![alt text](https://github.com/envasadoralvacio/prueba-practica-diw-junio-2023/blob/master/imagen-prueba.jpg=250)
 
-￼
 4. Expo-detalle.html
 - [ ] Haz que el primer párrafo de los artículos tenga un color de fondo (cuidado con la legibilidad)
 - [ ] Cambia el color de los créditos.
